@@ -1,0 +1,13 @@
+# Home content configuration file
+##
+### here you can find all content for home page
+
+### Started Default
+home:
+  title: "Hello, I’m <strong>Christian Campoli</strong>, Custom Solutions Designer and <br />Full Stack Developer Based in Las Palmas."
+  typed:
+    - "I simplify <strong>your life</strong>"
+    - "I code cool <strong>solutions</strong>"
+    - "I develop <strong>web apps</strong>"
+    - "I love <strong>coding</strong>"
+  image: "assets/img/chris.png"
