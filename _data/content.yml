@@ -6,25 +6,25 @@
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hello! I’m Christian Campoli. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "34"
 
     - label: "Residence"
-      value: "USA"
+      value: "Canary Islands"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Las Palmas"
 
     - label: "Phone"
       value: "+1 256 254 84 56"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "christian@campoli.me"
 
   download:
     text: "Download CV"
@@ -318,4 +318,3 @@ contacts_info:
 ### Contact Form [ contacts-form ]
 contacts_form:
   title: "Contact Form"
-
