@@ -21,7 +21,7 @@
   
   <!-- Template Colors -->
   {% if settings.quick_colors != '' %}
-  <link rel="stylesheet" href="{{ 'assets/css/template-colors/' | append: settings.quick_colors | append: '.css' | relative_url }}" />
+  <link rel="stylesheet" href="assets/css/template-colors/blue.css" />
   {% endif %}
   
   <!--[if lt IE 9]>
@@ -30,7 +30,7 @@
   <![endif]-->
   
   <!-- Favicons -->
-  <link rel="shortcut icon" href="{{ 'assets/images/favicons/favicon.ico' | relative_url }}">
+  <link rel="shortcut icon" href="assets/images/favicons/favicon.ico">
 
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
