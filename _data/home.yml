@@ -4,9 +4,9 @@
 
 ### Started Default
 home:
-  title: "Hello, I’m <strong>Christian Campoli</strong>, Software Architect <br />for business custom solutions."
+  title: "Hello, I’m <strong>Christian Campoli</strong>, Software Architect and Developer<br />for business custom solutions."
   typed:
     - "I simplify <strong>your life</strong>"
-    - "I build <strong>solutions</strong>"
+    - "I design <strong>solutions</strong>"
     - "I improve <strong>workflows</strong>"
   image: "assets/img/chris.png"

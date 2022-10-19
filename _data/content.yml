@@ -26,31 +26,31 @@ about:
 
 ### Services [ services ]
 services:
-  title: "Services"
+  title: "Custom Solutions"
   items:
+    - icon: "fas fa-brain"
+      name: "Designed for you"
+      text: "A solution will be designed to fit your needs and solve your problems."
+
+    - icon: "fas fa-layer-group"
+      name: "Milestones"
+      text: "A milestone approach knowing where the destinations is my way to handle complex projects."
+
     - icon: "fas fa-code"
-      name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
+      name: "Development"
+      text: "Handcrafted code to build high quality and fast applications."
 
-    - icon: "fas fa-music"
-      name: "Music Writing"
-      text: "Music copying, writing, creating, transcription, arranging and services."
+    - icon: "fab fa-sketch"
+      name: "Technology"
+      text: "The latest technologies will result in more efficient services."
 
-    - icon: "fas fa-ad"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail, and web apps."
-
-    - icon: "fas fa-gamepad"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios and video games."
-
-    - icon: "fas fa-camera"
-      name: "Photography"
-      text: "Our in-house photography services team made up of professional photographers."
+    - icon: "fab fa-chrome"
+      name: "Web Application"
+      text: "Browsers are advanced nowadays so a web application will most likely be a great choice."
 
     - icon: "fas fa-mobile-alt"
-      name: "Android Application"
-      text: "Games, playing music, handle network transactions, interacting content etc."
+      name: "Mobile Application"
+      text: "Mobile applications sometimes fit best when you need hardware access or notifications."
       
 ### Pricing [ pricing ]
 pricing:
