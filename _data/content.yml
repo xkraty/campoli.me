@@ -51,48 +51,6 @@ services:
     - icon: "fas fa-mobile-alt"
       name: "Mobile Application"
       text: "Mobile applications sometimes fit best when you need hardware access or notifications."
-      
-### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  items:
-    - icon: "fas fa-star"
-      name: "Basic"
-      price: "39"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "yes"
-        - value: "Photography"
-          disable: "yes"
-      button: "Buy Now"
-      link: "contact/"
-          
-    - icon: "fas fa-rocket"
-      name: "Premium"
-      price: "59"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "no"
-        - value: "Photography"
-          disable: "no"
-      button: "Buy Now"
-      link: "contact/"
 
 ### Resume [ resume ]
 resume:
@@ -203,50 +161,24 @@ skills:
 
 ### Facts [ facts ]
 facts:
-  title: "Interests"
+  title: "About me"
   items:
-    - icon: "fas fa-baseball-ball"
-      name: "Basketball"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    - icon: "fas fa-pizza-slice"
+      name: "Food"
+      text: "No! I don't like pineapple on my pizza."
 
-    - icon: "fas fa-campground"
-      name: "Camping"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    - icon: "fas fa-user-friends"
+      name: "Friends"
+      text: "Always up for a bbq or a drink with friends."
 
-    - icon: "fas fa-chess-knight"
-      name: "Chess"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    - icon: "fas fa-umbrella-beach"
+      name: "Sea"
+      text: "Loving the life in the Canaries."
 
-    - icon: "fas fa-headphones"
-      name: "Music"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
-### Team [ team ]
-team:
-  title: "Our Team"
-  items:
-    - image: "assets/img/team/team1.jpg"
-      name: "Alejandro Abeyta"
-      role: "Web Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
-          
-    - image: "assets/img/team/team2.jpg"
-      name: "Peter Green"
-      role: "Back-end Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
-          
+    - icon: "fas fa-tv"
+      name: "Series"
+      text: "I am the one who knocks - Breaking Bad"
+
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
@@ -289,26 +221,6 @@ text:
         </p>
         "
 
-### Contact Info [ contacts-info ]
-contacts_info:
-  title: "Contacts Info"
-  list:
-    - label: "Phone"
-      icon: "fas fa-phone"
-      value: "+ (231) 456 67 89"
-
-    - label: "Email"
-      icon:  "fas fa-envelope"
-      value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
-
-    - label: "Address"
-      icon: "fas fa-map-marker-alt"
-      value: "2621 W Pico Blvd, Los Angeles"
-    
-    - label: "Freelance Available"
-      icon: "fas fa-user-tie"
-      value: "I am available for Freelance hire"
-
 ### Contact Form [ contacts-form ]
 contacts_form:
-  title: "Contact Form"
+  title: "Contact Me"
