@@ -57,32 +57,36 @@ resume:
   experience:
     title: "Experience"
     items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2017 - Present"
+        name: "Freelance Software Architect - Remote"
+        text: "As Freelance I design and create custom solutions such as CRM, Web App, Mobile App for companies."
 
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2017 - 2020"
+        name: "Software Engineer @MojoLingo - Remote"
+        text: "I've been working for this US company which was building real time applications and VoIPs."
 
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
+      - year: "2016"
+        name: "DevOps @Digital Forest - Milan (IT)"
+        text: "I participate in the entire service lifecycle, from design through development process to production."
+
+      - year: "2008 - 2015"
+        name: "Web Developer @Softplace - Biella (IT)"
+        text: "Working in team developing web apps, e-commerce and websites; I've worked on both backend and frontend."
         
   education:
-    title: "Education"
+    title: "Startups"
     items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2021 - Present"
+        name: "Co-Founder & CTO @Dashero"
+        text: "As CTO I've been in charge of designing and building the app by deciding technologies and approaches."
 
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "2017"
+        name: "CTO @Fannabee"
+        text: "I've been taking over to develop features on the NodeJS and maintained the servers."
 
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2015"
+        name: "Co-Founder & CTO @Freedhome"
+        text: "Following my participation in StartupBus I've been working on the tech part of the company."
 
 ### Skills [ skills ]
 skills:
@@ -180,22 +184,6 @@ testimonials:
       name: "Helen Floyd"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client1.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client3.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client4.png"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
