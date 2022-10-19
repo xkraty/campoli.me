@@ -4,10 +4,9 @@
 
 ### Started Default
 home:
-  title: "Hello, I’m <strong>Christian Campoli</strong>, Custom Solutions Designer and <br />Full Stack Developer Based in Las Palmas."
+  title: "Hello, I’m <strong>Christian Campoli</strong>, Software Architect <br />for business custom solutions."
   typed:
     - "I simplify <strong>your life</strong>"
-    - "I code cool <strong>solutions</strong>"
-    - "I develop <strong>web apps</strong>"
-    - "I love <strong>coding</strong>"
+    - "I build <strong>solutions</strong>"
+    - "I improve <strong>workflows</strong>"
   image: "assets/img/chris.png"

@@ -5,30 +5,24 @@
 
 ### About [ about ]
 about:
-  image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Christian Campoli. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  image: "assets/img/chris-small.png"
+  text: "<p>Hello! I’m <strong>Christian Campoli</strong>. Software Architect born in Italy and living in the Canary Islands. With 15 years experience in development I help business in improving and optimizing by designing and building custom applications.</p>"
   list:
-    - label: "Age"
-      value: "34"
+    - label: "Birthplace"
+      value: "Biella (BI), Italy"
 
-    - label: "Residence"
-      value: "Canary Islands"
+    - label: "Birthdate"
+      value: "14/03/1988"
 
-    - label: "Freelance"
-      value: "Available"
-
-    - label: "Address"
-      value: "Las Palmas"
-
-    - label: "Phone"
-      value: "+1 256 254 84 56"
+    - label: "Location"
+      value: "Las Palmas, Gran Canaria"
 
     - label: "E-mail"
       value: "christian@campoli.me"
 
   download:
-    text: "Download CV"
-    link: "https://drive.google.com/"
+    text: "Contact Me"
+    link: "#section-contacts"
 
 ### Services [ services ]
 services:
