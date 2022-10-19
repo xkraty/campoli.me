@@ -4,6 +4,7 @@
 
 ### Main Settings
 settings:
+  logo: "assets/img/logo.png"
   logo_text: "Christian <strong>Campoli</strong>"
   logo_hover_text: "Custom <strong>Solutions</strong>"
   quick_colors: "blue" # select quick color schemes: "beige", "blue", "brown", "green_light", "green", "orange", "purple", "red", "yellow_light", "yellow". If empty colors taken from _sass/ryancv/settings.scss

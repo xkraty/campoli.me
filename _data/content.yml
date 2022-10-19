@@ -176,14 +176,14 @@ testimonials:
   title: "Testimonials"
   items:
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      name: "My Mom"
+      role: "Literally gave me life"
+      text: "He's actually one of the best on whatever he does. That's what she's says to everyone "
       
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      name: "Alberto Stella"
+      role: "Art Director @UpriseLab"
+      text: "I work with Christian since when he started and the fact I'm writing this says it all."
 
 ### Contact Form [ contacts-form ]
 contacts_form:
